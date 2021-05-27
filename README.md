@@ -5,21 +5,25 @@ Modifier le fichier `index.HTML` et mettre `<script src='/script/script.js'></sc
 ##### Consigne:  
 Pour ce projet, nous allons reprendre des exercices basiques de programmation que tu as déjà effectués pendant tes premières semaines chez THP. Ce sera l'occasion pour toi de voir le progrès que tu as réalisé et le chemin parcouru car ta problématique ne sera plus de résoudre le problème (tu l'as déja fait) mais de passer d'un langage à un autre. Qui dit nouveau langage dit "Hello world"  
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 1   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_1.js'></script>`  
 ##### Consigne:  
 Customise le script script_1.js qui te demandera ton prénom avec un prompt. Tu stockeras cette entrée dans une variable et tu afficheras : "Bonjour, prénom !" dans la console.  
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 2   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_2.js'></script>`  
 ##### Consigne:  
 Créé un script script_2.js qui définira la fonction factorielle et qui calculera la factorielle du nombre entré par l'utilisateur. Petit exemple rapide : factorielle(5) = 5*4*3*2*1 et factorielle(10) = 10*9*8*7*6*5*4*3*2*1. 
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 3   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_3.js'></script>`  
 ##### Consigne:  
 Ah la pyramide de Mario du pré-parcours. Que de bons souvenirs. Tu vas écrire un script appelé script_3.js   
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 4   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_4.js'></script>`  
 ##### Consigne:  
@@ -31,11 +35,13 @@ Réalise un script script_4.js qui affichera dans la console les questions suiva
 * Quel âge aurait chaque inventeur aujourd'hui ?
 * Trie les entrepreneurs par ordre alphabétique du nom de famille.   
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 5   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_5.js'></script>`  
 ##### Consigne:  
 C'est ton premier jour de stage au CDI du collège du coin. Tu dois aider la bibliothécaire à faire des statistiques dans la base de données de livres du collège et elle te donne ce jeu de données pour que tu maitrises le back-office du programme.   
 Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.  
+-------------------
 ### Exercice 6   
 Modifier le fichier `index.HTML` et mettre `<script src='/script/script_6.js'></script>`  
 ##### Consigne:  
@@ -63,9 +69,10 @@ Afin de comparer ton travail avec les autres moussaillons, voici 2 ARN à tradui
 
 `CCGUCGUUGCGCUACAGC`  
 `CCUCGCCGGUACUUCUCG`    
-Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.    
+Ouvrir le fichier `index.html` sur ton navigateur préféré et observe la console.   
+------------------- 
 ### Exercice 7   
-Modifier le fichier `index.HTML` et mettre `<script src='/script/script_6.js'></script>`  
+Modifier le fichier `index.HTML` et mettre `<script src='/script/script_7.js'></script>`  
 ##### Consigne:  
 Maintenant on va implémenter une sorte de chat-bot dont on entend (bizarrement) très peu parler en ce moment : le bot adolescent. Après tout, il n'y a aucune raison que les bots ne passent pas, eux aussi, par cette phase ingrate de la vie.  
 
