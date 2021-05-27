@@ -7,7 +7,7 @@ while(answer !== 'STOP'){
     case answer.slice(-1) === '?':
     console.log("Ouais Ouais..." );
     break;
-    case answer === answer.toUpperCase():
+    case answer!=="" && answer === answer.toUpperCase():
     console.log("Pwa, calme-toi...");
     break;
     case answer.includes('fortnite'): case answer.includes('Fortnite'):
